@@ -1,15 +1,10 @@
-* [JSConfEU](http://2015.jsconf.eu/) - [twitter](https://twitter.com/jsconfeu)
+* [2015](#2015)
+* [2014](#2014)
 
+## 2015
 
+- [JSConfEU](http://2015.jsconf.eu/)
 
-* [CSSConfEU](http://2014.cssconf.eu/) - [twitter](https://twitter.com/CSSconfeu)
+## 2014
 
-* []() - [twitter]()
-
-* []() - [twitter]()
-
-* []() - [twitter]()
-
-* []() - [twitter]()
-
-* []() - [twitter]()
+- [CSSConfEU](http://2014.cssconf.eu/)
