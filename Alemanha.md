@@ -3,8 +3,9 @@
 
 ## 2015
 
-- [JSConfEU](http://2015.jsconf.eu/)
+- 25/09 e 27/09 - [JSConf](http://2015.jsconf.eu/)
 
 ## 2014
 
-- [CSSConfEU](http://2014.cssconf.eu/)
+- [CSSConf](http://2014.cssconf.eu/)
+- [JSConf](http://2014.jsconf.eu/)
