@@ -3,9 +3,9 @@
 
 ## 2015
 
-- [JSConf](http://2015.jsconf.us/)
+- 21/04 a 23/04 - [Rails Conf](http://railsconf.com/)
 
-- [Rails Conf](http://railsconf.com/)
+- 27/05 a 29/05 - [JSConf](http://2015.jsconf.us/)
 
 ## 2014
 

@@ -3,6 +3,8 @@
 
 ## 2015
 
+*Sem previsão de eventos ainda*
+
 ## 2014
 
 - [Fronteers](https://fronteers.nl/)
