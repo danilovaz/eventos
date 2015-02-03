@@ -4,6 +4,8 @@ Lista de eventos voltados para desenvolvimento web no Brasil e no mundo.
 
 Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [guia de contribuição](https://github.com/danilovaz/eventos/blob/master/CONTRIBUTING.md). Atente-se ao formato de organização.
 
+## Lista de países
+
 - [Alemanha](https://github.com/danilovaz/eventos/blob/master/Alemanha.md)
 
 - [Argentina](https://github.com/danilovaz/eventos/blob/master/Argentina.md)
