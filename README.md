@@ -29,3 +29,7 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 - [Uruguai](https://github.com/danilovaz/eventos/blob/master/Uruguai.md)
 
 ----
+
+## License
+
+[MIT License](http://danilovaz.mit-license.org/) © Danilo Vaz

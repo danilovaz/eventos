@@ -1,6 +1,6 @@
 # Singapura
 
-Lista de eventos voltados para desenvolvimento web que acontecem na Singapura.
+Lista de eventos voltados para desenvolvimento web que acontecem em Singapura.
 
 ----
 

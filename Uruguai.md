@@ -1,6 +1,6 @@
 # Uruguai
 
-Lista de eventos voltados para desenvolvimento web que acontecem na Uruguai.
+Lista de eventos voltados para desenvolvimento web que acontecem no Uruguai.
 
 ----
 

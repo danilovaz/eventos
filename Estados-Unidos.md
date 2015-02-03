@@ -1,6 +1,6 @@
 # Estados Unidos
 
-Lista de eventos voltados para desenvolvimento web que acontecem na Estados Unidos.
+Lista de eventos voltados para desenvolvimento web que acontecem nos Estados Unidos.
 
 ----
 

@@ -1,6 +1,6 @@
 # Brasil
 
-Lista de eventos voltados para desenvolvimento web que acontecem na Brasil.
+Lista de eventos voltados para desenvolvimento web que acontecem no Brasil.
 
 ----
 
