@@ -7,7 +7,6 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 ----
 
 ## Lita de eventos
-----
 
 ### .concat()
 
