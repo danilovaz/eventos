@@ -80,3 +80,7 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 ## License
 
 [MIT License](http://danilovaz.mit-license.org/) © Danilo Vaz
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/danilovaz/eventos/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
