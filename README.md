@@ -6,27 +6,74 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 
 ----
 
-## Lista de países
+## Lita de eventos
+----
 
-- [Alemanha](https://github.com/danilovaz/eventos/blob/master/Alemanha.md)
+### .concat()
 
-- [Argentina](https://github.com/danilovaz/eventos/blob/master/Argentina.md)
+- [2015 - Austria](https://conc.at/)
 
-- [Austrália](https://github.com/danilovaz/eventos/blob/master/Australia.md)
+### CSSConf
 
-- [Austria](https://github.com/danilovaz/eventos/blob/master/Austria.md)
+- [2014 - Alemanha](http://2014.cssconf.eu/)
+- [2015 - Austrália](http://2015.cssconf.com.au/)
+- [2015 - Brasil](http://www.conferenciacssbrasil.com.br/)
+- [2014 - Estados Unidos](http://2014.cssdevconf.com/)
+- [2014 - Singapura](http://2014.cssconf.asia/)
 
-- [Brasil](https://github.com/danilovaz/eventos/blob/master/Brasil.md)
+### JSConf
 
-- [Estados Unidos](https://github.com/danilovaz/eventos/blob/master/Estados-Unidos.md)
+- [2015 - Alemanha](http://2015.jsconf.eu/)
+- [2014 - Alemanha](http://2014.jsconf.eu/)
+- [2014 - Argentina](https://www.jsconfar.com)
+- [2014 - Austrália](http://au.jsconf.com/)
+- [2014 - Brasil](http://2014.jsconfbr.org/)
+- [2015 - Estados Unidos](http://2015.jsconf.us/)
+- [2014 - Uruguai](http://jsconf.uy/)
 
-- [Holanda](https://github.com/danilovaz/eventos/blob/master/Holanda.md)
+### Fronteers
 
-- [Polônia](https://github.com/danilovaz/eventos/blob/master/Polonia.md)
+- [2014 - Holanda](https://fronteers.nl/)
 
-- [Singapura](https://github.com/danilovaz/eventos/blob/master/Singapura.md)
+### Front in BH
 
-- [Uruguai](https://github.com/danilovaz/eventos/blob/master/Uruguai.md)
+- [2014 - Brasil](http://frontinbh.com.br/)
+
+### Front in Floripa
+
+- [2014 - Brasil](http://frontinfloripa.com.br/)
+
+### Front in Interior
+
+- [2014 - Brasil](http://www.frontinterior.com.br/)
+
+### Front in POA
+
+- [2014 - Brasil](http://frontinpoa.com.br/2014/)
+
+### Front in Sampa
+
+- [2014 - Brasil](http://www.frontinsampa.com.br/)
+
+### Front Trends
+
+- [2015 - Polônia](http://2015.front-trends.com/)
+
+### PolyConf
+
+- [2015 - Polônia](http://polyconf.com/)
+
+### RailsConf
+
+- [2015 - Estados Unidos](http://railsconf.com/)
+
+### RuPy
+
+- [2014 - Brasil](http://rupy.com.br/)
+
+### Tropical Ruby
+
+- [2015 - Brasil](http://tropicalrb.com/)
 
 ----
 
