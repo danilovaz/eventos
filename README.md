@@ -14,20 +14,20 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 
 ### CSSConf
 
-- [2014 - Alemanha](http://2014.cssconf.eu/)
 - [2015 - Austrália](http://2015.cssconf.com.au/)
 - [2015 - Brasil](http://www.conferenciacssbrasil.com.br/)
+- [2014 - Alemanha](http://2014.cssconf.eu/)
 - [2014 - Estados Unidos](http://2014.cssdevconf.com/)
 - [2014 - Singapura](http://2014.cssconf.asia/)
 
 ### JSConf
 
 - [2015 - Alemanha](http://2015.jsconf.eu/)
+- [2015 - Estados Unidos](http://2015.jsconf.us/)
 - [2014 - Alemanha](http://2014.jsconf.eu/)
 - [2014 - Argentina](https://www.jsconfar.com)
 - [2014 - Austrália](http://au.jsconf.com/)
 - [2014 - Brasil](http://2014.jsconfbr.org/)
-- [2015 - Estados Unidos](http://2015.jsconf.us/)
 - [2014 - Uruguai](http://jsconf.uy/)
 
 ### Fronteers
