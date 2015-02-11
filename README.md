@@ -23,6 +23,7 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 ### JSConf
 
 - [2015 - Alemanha](http://2015.jsconf.eu/)
+- [2015 - Colômbia](http://jsconf.co/)
 - [2015 - Estados Unidos](http://2015.jsconf.us/)
 - [2014 - Alemanha](http://2014.jsconf.eu/)
 - [2014 - Argentina](https://www.jsconfar.com)
