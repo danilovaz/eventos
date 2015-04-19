@@ -39,6 +39,10 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 
 - [2014 - Brasil](http://frontinbh.com.br/)
 
+### Front in Fortaleza
+
+- [2015 - Brasil](http://www.frontinfortaleza.com.br/)
+
 ### Front in Floripa
 
 - [2014 - Brasil](http://frontinfloripa.com.br/)
