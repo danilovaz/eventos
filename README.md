@@ -8,6 +8,14 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 
 ## Lita de eventos
 
+### Angular U
+
+- [2015 - Estados Unidos](https://angularu.com/ng/)
+
+### Bloomberg Technology Conference
+
+- [2015 - Estados Unidos](www.bloomberg.com/btech2015/)
+
 ### .concat()
 
 - [2015 - Austria](https://conc.at/)
@@ -86,13 +94,26 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 
 - [2015 - Polônia](http://2015.front-trends.com/)
 
+### MEF Consumer Trust Summit
+
+- [2015 - Estados Unidos](http://www.mobileecosystemforum.com/event/4th-annual-consumer-trust-summit-2/)
+
 ### Open Source Bridge
 
 - [2015 - Estados Unidos](http://opensourcebridge.org)
 
+### Plug and Play IoT EXPO
+
+- [2015 - Estados Unidos](http://plugandplayaccelerator.com/events/IoTEXPO#sthash.2t4nJ10G.dpuf)
+
 ### PolyConf
 
 - [2015 - Polônia](http://polyconf.com/)
+
+### QCon International Software Development Conference
+
+- [2015 - Estados Unidos](https://qconnewyork.com/)
+
 
 ### RailsConf
 
