@@ -65,7 +65,7 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 
 ### Open Source Bridge
 
-- [2015] - Estados Unidos(http://opensourcebridge.org) 
+- [2015 - Estados Unidos](http://opensourcebridge.org) 
 
 ### PolyConf
 
