@@ -63,6 +63,10 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 
 - [2015 - Polônia](http://2015.front-trends.com/)
 
+### Open Source Bridge
+
+- [2015] - Estados Unidos(http://opensourcebridge.org) 
+
 ### PolyConf
 
 - [2015 - Polônia](http://polyconf.com/)
