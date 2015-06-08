@@ -94,13 +94,28 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 
 - [2015 - Polônia](http://2015.front-trends.com/)
 
+### International Week
+
+- [2015 - Estados Unidos](https://www.f6s.com/scalinginnovations/)
+
 ### MEF Consumer Trust Summit
 
 - [2015 - Estados Unidos](http://www.mobileecosystemforum.com/event/4th-annual-consumer-trust-summit-2/)
 
+### Midem
+
+- [2015 - França](http://my.midem.com/plan-my-agenda/conferences-concerts/#)
+
 ### Open Source Bridge
 
 - [2015 - Estados Unidos](http://opensourcebridge.org)
+
+### O'Reilly Strata + Hadoop
+
+- [2015 - Estados Unidos](http://strataconf.com/big-data-conference-ny-2015)
+- [2015 - Singapura](http://strataconf.com/big-data-conference-sg-2015)
+- [2016 - Estados Unidos](http://strataconf.com/)
+- [2015 - Inglaterra](http://strataconf.com)
 
 ### Plug and Play IoT EXPO
 
@@ -126,6 +141,10 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 ### Tropical Ruby
 
 - [2015 - Brasil](http://tropicalrb.com/)
+
+### WPC
+
+- [2015 - Estados Unidos](https://mspartner.microsoft.com/en/us/pages/wpc/overview.aspx)
 
 ----
 
