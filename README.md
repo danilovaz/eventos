@@ -66,6 +66,10 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 
 - [2014 - Holanda](https://fronteers.nl/)
 
+### FrontEnd Design Conference
+
+- [2015 - Estados Unidos](http://frontenddesignconference.com/)
+
 ### Front in BH
 
 - [2014 - Brasil](http://frontinbh.com.br/)
