@@ -31,6 +31,29 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 - [2014 - Brasil](http://2014.jsconfbr.org/)
 - [2014 - Uruguai](http://jsconf.uy/)
 
+### FLISol
+
+- [2015 - Argentina](http://flisol.info/FLISOL2015/Argentina)
+- [2015 - Bolivia](http://flisol.info/FLISOL2015/Bolivia)
+- [2015 - Brasil](http://flisol.info/FLISOL2015/Brasil/)
+- [2015 - Chile](http://flisol.info/FLISOL2015/Chile)
+- [2015 - Colombia](http://flisol.info/FLISOL2015/Colombia)
+- [2015 - Costa Rica](http://flisol.info/FLISOL2015/CostaRica)
+- [2015 - Cuba](http://flisol.info/FLISOL2015/Cuba)
+- [2015 - Ecuador](http://flisol.info/FLISOL2015/Ecuador)
+- [2015 - España](http://flisol.info/FLISOL2015/Espana)
+- [2015 - El Salvador](http://flisol.info/FLISOL2015/ElSalvador)
+- [2015 - Guatemala](http://flisol.info/FLISOL2015/Guatemala)
+- [2015 - Honduras](http://flisol.info/FLISOL2015/Honduras)
+- [2015 - México](http://flisol.info/FLISOL2015/Mexico)
+- [2015 - Nicaragua](http://flisol.info/FLISOL2015/Nicaragua)
+- [2015 - Panamá](http://flisol.info/FLISOL2015/Panama)
+- [2015 - Paraguay](http://flisol.info/FLISOL2015/Paraguay)
+- [2015 - Perú](http://flisol.info/FLISOL2015/Peru)
+- [2015 - Rep Dominicana](http://flisol.info/FLISOL2015/RepublicaDominicana)
+- [2015 - Uruguay](http://flisol.info/FLISOL2015/Uruguay)
+- [2015 - Venezuela](http://flisol.info/FLISOL2015/Venezuela)
+
 ### Fronteers
 
 - [2014 - Holanda](https://fronteers.nl/)
@@ -62,6 +85,10 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 ### Front Trends
 
 - [2015 - Polônia](http://2015.front-trends.com/)
+
+### Open Source Bridge
+
+- [2015 - Estados Unidos](http://opensourcebridge.org)
 
 ### PolyConf
 
