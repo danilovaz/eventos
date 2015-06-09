@@ -142,6 +142,10 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 
 - [2014 - Brasil](http://rupy.com.br/)
 
+### Smashing Conf
+
+- [2015 - Espanha](http://www.smashingconf.com/barcelona-2015/)
+
 ### Tropical Ruby
 
 - [2015 - Brasil](http://tropicalrb.com/)
@@ -153,7 +157,6 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 ### WWDC
 
 - [2015 - Estados Unidos](http://developer.apple.com/wwdc/)
-
 
 ----
 
