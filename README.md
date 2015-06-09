@@ -8,6 +8,18 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 
 ## Lita de eventos
 
+### Angular U
+
+- [2015 - Estados Unidos](https://angularu.com/ng/)
+
+### Bloomberg Technology Conference
+
+- [2015 - Estados Unidos](www.bloomberg.com/btech2015/)
+
+### Boston TechJam
+
+- [2015 - Estados Unidos](http://www.bostontechjam.com/)
+
 ### .concat()
 
 - [2015 - Austria](https://conc.at/)
@@ -58,6 +70,10 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 
 - [2014 - Holanda](https://fronteers.nl/)
 
+### FrontEnd Design Conference
+
+- [2015 - Estados Unidos](http://frontenddesignconference.com/)
+
 ### Front in BH
 
 - [2014 - Brasil](http://frontinbh.com.br/)
@@ -86,13 +102,41 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 
 - [2015 - Polônia](http://2015.front-trends.com/)
 
+### International Week
+
+- [2015 - Estados Unidos](https://www.f6s.com/scalinginnovations/)
+
+### MEF Consumer Trust Summit
+
+- [2015 - Estados Unidos](http://www.mobileecosystemforum.com/event/4th-annual-consumer-trust-summit-2/)
+
+### Midem
+
+- [2015 - França](http://my.midem.com/plan-my-agenda/conferences-concerts/#)
+
 ### Open Source Bridge
 
 - [2015 - Estados Unidos](http://opensourcebridge.org)
 
+### O'Reilly Strata + Hadoop
+
+- [2015 - Estados Unidos](http://strataconf.com/big-data-conference-ny-2015)
+- [2015 - Singapura](http://strataconf.com/big-data-conference-sg-2015)
+- [2016 - Estados Unidos](http://strataconf.com/)
+- [2015 - Inglaterra](http://strataconf.com)
+
+### Plug and Play IoT EXPO
+
+- [2015 - Estados Unidos](http://plugandplayaccelerator.com/events/IoTEXPO#sthash.2t4nJ10G.dpuf)
+
 ### PolyConf
 
 - [2015 - Polônia](http://polyconf.com/)
+
+### QCon International Software Development Conference
+
+- [2015 - Estados Unidos](https://qconnewyork.com/)
+
 
 ### RailsConf
 
@@ -102,9 +146,21 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 
 - [2014 - Brasil](http://rupy.com.br/)
 
+### Smashing Conf
+
+- [2015 - Espanha](http://www.smashingconf.com/barcelona-2015/)
+
 ### Tropical Ruby
 
 - [2015 - Brasil](http://tropicalrb.com/)
+
+### WPC
+
+- [2015 - Estados Unidos](https://mspartner.microsoft.com/en/us/pages/wpc/overview.aspx)
+
+### WWDC
+
+- [2015 - Estados Unidos](http://developer.apple.com/wwdc/)
 
 ----
 
