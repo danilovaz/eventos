@@ -16,6 +16,10 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 
 - [2015 - Estados Unidos](www.bloomberg.com/btech2015/)
 
+### Boston TechJam
+
+- [2015 - Estados Unidos](http://www.bostontechjam.com/)
+
 ### .concat()
 
 - [2015 - Austria](https://conc.at/)
