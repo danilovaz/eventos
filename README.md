@@ -102,6 +102,10 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 
 - [2015 - Polônia](http://2015.front-trends.com/)
 
+### Hashiconf
+
+- [2015 - Estados Unidos](https://hashiconf.com/)
+
 ### International Week
 
 - [2015 - Estados Unidos](https://www.f6s.com/scalinginnovations/)
