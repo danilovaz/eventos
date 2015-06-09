@@ -158,6 +158,10 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 
 - [2015 - Brasil](http://tropicalrb.com/)
 
+### You gott a love Frontend
+
+- [2015 - Israel](http://yougottalovefrontend.com/)
+
 ### WPC
 
 - [2015 - Estados Unidos](https://mspartner.microsoft.com/en/us/pages/wpc/overview.aspx)
