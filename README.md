@@ -32,6 +32,10 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 - [2014 - Estados Unidos](http://2014.cssdevconf.com/)
 - [2014 - Singapura](http://2014.cssconf.asia/)
 
+### E3
+
+- [2015 - Estados Unidos](http://www.e3expo.com/)
+
 ### JSConf
 
 - [2015 - Alemanha](http://2015.jsconf.eu/)
@@ -100,11 +104,15 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 
 ### Front Trends
 
-- [2015 - Polônia](http://2015.front-trends.com/)
+- [2015 - Pol�nia](http://2015.front-trends.com/)
 
 ### Hashiconf
 
 - [2015 - Estados Unidos](https://hashiconf.com/)
+
+### infoShare
+
+- [2015 - Pol�nia](htt://theinfoshare.org)
 
 ### International Week
 
@@ -117,6 +125,10 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 ### Midem
 
 - [2015 - França](http://my.midem.com/plan-my-agenda/conferences-concerts/#)
+
+### NOAH 
+
+- [2015 - Alemanha](http://www.noah-conference.com/)
 
 ### Open Source Bridge
 
