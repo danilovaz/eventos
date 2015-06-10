@@ -78,6 +78,10 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 
 - [2015 - Estados Unidos](http://frontenddesignconference.com/)
 
+### Front in Amsterdam
+
+- [2015 - Holanda](http://frontinamsterdam.nl/)
+
 ### Front in BH
 
 - [2014 - Brasil](http://frontinbh.com.br/)
