@@ -98,6 +98,10 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 
 - [2014 - Brasil](http://frontinbh.com.br/)
 
+### Front in Cuiabá
+
+- [2015 - Brasil](http://frontincuiaba.com.br/)
+
 ### Front in Fortaleza
 
 - [2015 - Brasil](http://www.frontinfortaleza.com.br/)
