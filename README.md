@@ -70,6 +70,10 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 - [2015 - Uruguay](http://flisol.info/FLISOL2015/Uruguay)
 - [2015 - Venezuela](http://flisol.info/FLISOL2015/Venezuela)
 
+### Front-End Carioca
+
+- [2015 - Brasil](http://frontendcarioca.com.br/)
+
 ### Fronteers
 
 - [2014 - Holanda](https://fronteers.nl/)
@@ -77,6 +81,14 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 ### FrontEnd Design Conference
 
 - [2015 - Estados Unidos](http://frontenddesignconference.com/)
+
+### FrontEnd Experience
+
+ - [2015 - Brasil] (https://www.facebook.com/frontendexperience)
+
+### Front in Aracaju
+
+- [2015 - Brasil](http://www.frontinaracaju.com.br/)
 
 ### Front in Amsterdam
 
@@ -106,9 +118,13 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 
 - [2014 - Brasil](http://www.frontinsampa.com.br/)
 
+### Front in SM
+
+- [2015 - Brasil](http://frontinsm.com.br/)
+
 ### Front Trends
 
-- [2015 - Pol�nia](http://2015.front-trends.com/)
+- [2015 - Polônia](http://2015.front-trends.com/)
 
 ### Hashiconf
 
@@ -116,7 +132,7 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 
 ### infoShare
 
-- [2015 - Pol�nia](htt://theinfoshare.org)
+- [2015 - Polônia](htt://theinfoshare.org)
 
 ### International Week
 
@@ -164,6 +180,7 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 
 ### RuPy
 
+- [2015 - Brasil](http://campinas.rupy.com.br/)
 - [2014 - Brasil](http://rupy.com.br/)
 
 ### Smashing Conf
