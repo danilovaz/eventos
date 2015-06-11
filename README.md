@@ -24,6 +24,10 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 
 - [2015 - Austria](https://conc.at/)
 
+### Corra Forum
+
+- [2015 - Estados Unidos](http://corra.com/2015-corra-forum-los-angeles)
+
 ### CSSConf
 
 - [2015 - Austrália](http://2015.cssconf.com.au/)
@@ -31,6 +35,14 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 - [2014 - Alemanha](http://2014.cssconf.eu/)
 - [2014 - Estados Unidos](http://2014.cssdevconf.com/)
 - [2014 - Singapura](http://2014.cssconf.asia/)
+
+### eCommerce Expo
+
+- [2015 - Estados Unidos](http://randmarketing.com/ecommerce-expo-south-florida)
+
+### E-Commerce
+
+- [2015 - França](http://en.ecommerceparis.com/)
 
 ### E3
 
@@ -138,9 +150,19 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 
 - [2015 - Polônia](htt://theinfoshare.org)
 
+### Imagine Commerce
+
+- [2016 - Estados Unidos](http://imagine2015.magento.com/) 
+- [2015 - Estados Unidos](http://imagine2015.magento.com/) 
+
 ### International Week
 
 - [2015 - Estados Unidos](https://www.f6s.com/scalinginnovations/)
+
+### MagentoLive
+
+- [2015 - Estados Unidos](http://magentolive.com/au/)
+- [2015 - Reino Unido](http://magentolive.com/uk/)
 
 ### MEF Consumer Trust Summit
 
@@ -150,9 +172,17 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 
 - [2015 - França](http://my.midem.com/plan-my-agenda/conferences-concerts/#)
 
+### Net@Work and Kinetic Studios Industry Mixer
+
+- [2015 - Estados Unidos](http://www.netatwork.com/network-kinetic-partnership-party)
+
 ### NOAH 
 
 - [2015 - Alemanha](http://www.noah-conference.com/)
+
+### Online Retailer
+
+-[2015- Estados Unidos](http://www.onlineretailer.com/)
 
 ### Open Source Bridge
 
@@ -163,7 +193,7 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 - [2015 - Estados Unidos](http://strataconf.com/big-data-conference-ny-2015)
 - [2015 - Singapura](http://strataconf.com/big-data-conference-sg-2015)
 - [2016 - Estados Unidos](http://strataconf.com/)
-- [2015 - Inglaterra](http://strataconf.com)
+- [2016 - Inglaterra](http://strataconf.com)
 
 ### Plug and Play IoT EXPO
 
@@ -187,6 +217,10 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 - [2015 - Brasil](http://campinas.rupy.com.br/)
 - [2014 - Brasil](http://rupy.com.br/)
 
+### SEO/SEM Tips for Magento
+
+- [2015 - Estados Unidos](http://www.meetup.com/Southeast-Magento-Meetup/events/222509804)
+
 ### Smashing Conf
 
 - [2015 - Espanha](http://www.smashingconf.com/barcelona-2015/)
@@ -206,6 +240,28 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 ### WWDC
 
 - [2015 - Estados Unidos](http://developer.apple.com/wwdc/)
+
+## Lista Webinars
+
+### Automating Magento in the Cloud
+
+- [2015 - Estados Unidos](http://www.magentocommerce.com/media/webinars/rackspace-automating-magento-in-the-cloud/)
+
+### Magento 2: Translating Technical Abilities into Merchant Realities
+
+- [2015 - Estados Unidos](http://www.magentocommerce.com/media/webinars/magento-2-translating-technical-abilities/)
+
+### Optimizing Payments for the Holiday Season
+
+- [2015 - Estados Unidos](http://www.magentocommerce.com/media/webinars/something-digital-optimizing-payments/)
+
+### Sales and Use Tax Automation: Vertex SMB for Magento
+
+- [2015 - Estados Unidos](http://www.magentocommerce.com/media/webinars/vertex-smb-sales-and-use-tax-automation/)
+
+### The Sales Tax Implications of Drop Shipping
+
+- [2015 - Estados Unidos](http://www.magentocommerce.com/media/webinars/avalara-the-sales-tax-implications-of-drop-shipping/)
 
 ----
 
