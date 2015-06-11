@@ -32,6 +32,10 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 - [2014 - Estados Unidos](http://2014.cssdevconf.com/)
 - [2014 - Singapura](http://2014.cssconf.asia/)
 
+### E3
+
+- [2015 - Estados Unidos](http://www.e3expo.com/)
+
 ### JSConf
 
 - [2015 - Alemanha](http://2015.jsconf.eu/)
@@ -66,6 +70,10 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 - [2015 - Uruguay](http://flisol.info/FLISOL2015/Uruguay)
 - [2015 - Venezuela](http://flisol.info/FLISOL2015/Venezuela)
 
+### Front-End Carioca
+
+- [2015 - Brasil](http://frontendcarioca.com.br/)
+
 ### Fronteers
 
 - [2014 - Holanda](https://fronteers.nl/)
@@ -74,9 +82,25 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 
 - [2015 - Estados Unidos](http://frontenddesignconference.com/)
 
+### FrontEnd Experience
+
+ - [2015 - Brasil] (https://www.facebook.com/frontendexperience)
+
+### Front in Aracaju
+
+- [2015 - Brasil](http://www.frontinaracaju.com.br/)
+
+### Front in Amsterdam
+
+- [2015 - Holanda](http://frontinamsterdam.nl/)
+
 ### Front in BH
 
 - [2014 - Brasil](http://frontinbh.com.br/)
+
+### Front in Cuiabá
+
+- [2015 - Brasil](http://frontincuiaba.com.br/)
 
 ### Front in Fortaleza
 
@@ -98,9 +122,21 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 
 - [2014 - Brasil](http://www.frontinsampa.com.br/)
 
+### Front in SM
+
+- [2015 - Brasil](http://frontinsm.com.br/)
+
 ### Front Trends
 
 - [2015 - Polônia](http://2015.front-trends.com/)
+
+### Hashiconf
+
+- [2015 - Estados Unidos](https://hashiconf.com/)
+
+### infoShare
+
+- [2015 - Polônia](htt://theinfoshare.org)
 
 ### International Week
 
@@ -113,6 +149,10 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 ### Midem
 
 - [2015 - França](http://my.midem.com/plan-my-agenda/conferences-concerts/#)
+
+### NOAH 
+
+- [2015 - Alemanha](http://www.noah-conference.com/)
 
 ### Open Source Bridge
 
@@ -144,6 +184,7 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 
 ### RuPy
 
+- [2015 - Brasil](http://campinas.rupy.com.br/)
 - [2014 - Brasil](http://rupy.com.br/)
 
 ### Smashing Conf
@@ -153,6 +194,10 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 ### Tropical Ruby
 
 - [2015 - Brasil](http://tropicalrb.com/)
+
+### You gott a love Frontend
+
+- [2015 - Israel](http://yougottalovefrontend.com/)
 
 ### WPC
 
