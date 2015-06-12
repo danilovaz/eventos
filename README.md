@@ -142,6 +142,10 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 
 - [2015 - Polônia](http://2015.front-trends.com/)
 
+### Harnessing Goliath: Navigating Corporate Partnerships Without Killing Your Startup
+
+- [2015 - Estados Unidos](https://www.eventbrite.com/e/navigating-corporate-partnerships-without-killing-your-startup-tickets-17232422640)
+
 ### Hashiconf
 
 - [2015 - Estados Unidos](https://hashiconf.com/)
@@ -152,8 +156,8 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 
 ### Imagine Commerce
 
-- [2016 - Estados Unidos](http://imagine2015.magento.com/) 
-- [2015 - Estados Unidos](http://imagine2015.magento.com/) 
+- [2016 - Estados Unidos](http://imagine2015.magento.com/)
+- [2015 - Estados Unidos](http://imagine2015.magento.com/)
 
 ### International Week
 
@@ -176,7 +180,7 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 
 - [2015 - Estados Unidos](http://www.netatwork.com/network-kinetic-partnership-party)
 
-### NOAH 
+### NOAH
 
 - [2015 - Alemanha](http://www.noah-conference.com/)
 
