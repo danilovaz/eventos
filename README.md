@@ -172,7 +172,7 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 
 - [2015 - Estados Unidos](http://www.mobileecosystemforum.com/event/4th-annual-consumer-trust-summit-2/)
 
-### Meter Meetups
+### Meteor Meetups
 
 - [2015 - Israel](http://www.meetup.com/Meteor-Tel-Aviv/events/222673148/)
 - [2015 - França](http://www.meetup.com/Meteor-Marseille/events/222570766/)
