@@ -172,6 +172,26 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 
 - [2015 - Estados Unidos](http://www.mobileecosystemforum.com/event/4th-annual-consumer-trust-summit-2/)
 
+### Meter Meetups
+
+- [2015 - Israel](http://www.meetup.com/Meteor-Tel-Aviv/events/222673148/)
+- [2015 - França](http://www.meetup.com/Meteor-Marseille/events/222570766/)
+- [2015 - França](http://www.meetup.com/Meteor-Paris/events/220965932/)
+- [2015 - Estados Unidos](http://www.meetup.com/Meteor-Boston/events/223120257/)
+- [2015 - Croácia](http://www.meetup.com/Meteor-Zagreb/events/223013822/)
+- [2015 - Estados Unidos](http://www.meetup.com/Meteor-Madison/events/223025071/)
+- [2015 - Estados Unidos](http://www.meetup.com/Meteor-Cape-Town/events/223095360/)
+- [2015 - Canada](http://www.meetup.com/Meteor-Toronto/events/220945525/)
+- [2015 - Estados Unidos](http://www.meetup.com/Meteor-Columbus/events/222700441/)
+- [2015 - Polônia](http://www.meetup.com/Meteor-Wroclaw/events/222966708/)
+- [2015 - China](http://www.meetup.com/Meteor-HK/events/223154631/)
+- [2015 - Estados Unidos](http://www.meetup.com/Meteor-Seattle/events/222935347/)
+- [2015 - Canada](http://www.meetup.com/Meteor-Montreal/events/223154777/)
+- [2015 - Suécia](http://www.meetup.com/Meteor-Lund/events/223084953/)
+- [2015 - Estados Unidos](http://www.meetup.com/Meteor-NY/events/219270200/)
+- [2015 - Austria](http://www.meetup.com/Meteor-Vienna/events/222203333/)
+- [2015 - Canada](http://www.meetup.com/Meteor-Ottawa/events/222816532/﻿)
+
 ### Midem
 
 - [2015 - França](http://my.midem.com/plan-my-agenda/conferences-concerts/#)
