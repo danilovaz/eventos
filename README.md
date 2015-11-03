@@ -206,7 +206,7 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 
 ### Online Retailer
 
--[2015- Estados Unidos](http://www.onlineretailer.com/)
+- [2015- Estados Unidos](http://www.onlineretailer.com/)
 
 ### Open Source Bridge
 
