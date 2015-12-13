@@ -130,6 +130,10 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 
 - [2014 - Brasil](http://frontinpoa.com.br/2014/)
 
+### Front in Rio
+
+- [2015 - Brasil](http://frontinrio.com.br/)
+
 ### Front in Sampa
 
 - [2014 - Brasil](http://www.frontinsampa.com.br/)
