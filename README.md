@@ -222,6 +222,11 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 
 - [2015 - Alemanha](http://www.noah-conference.com/)
 
+### NodeConf
+
+- [2016 - Brasil](http://brazil.nodeconf.com/)
+- [2016 - Estados Unidos](http://nodeconf.com/)
+
 ### Online Retailer
 
 - [2015- Estados Unidos](http://www.onlineretailer.com/)
