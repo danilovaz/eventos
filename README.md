@@ -20,6 +20,15 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 
 - [2015 - Estados Unidos](http://www.bostontechjam.com/)
 
+### BrazilJS
+
+- [2016 - Brasil](https://braziljs.org/conf)
+- [2015 - Brasil](https://braziljs.org/conf/2015/)
+- [2014 - Brasil](https://braziljs.org/conf/2014/)
+- [2013 - Brasil](https://braziljs.org/conf/2013/)
+- [2012 - Brasil](https://braziljs.org/conf/2012/)
+- [2011 - Brasil](https://braziljs.org/conf/2011/)
+
 ### .concat()
 
 - [2015 - Austria](https://conc.at/)
