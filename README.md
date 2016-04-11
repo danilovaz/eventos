@@ -121,6 +121,7 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 
 ### Front in Cuiabá
 
+- [2016 - Brasil](http://frontincuiaba.com.br/)
 - [2015 - Brasil](http://frontincuiaba.com.br/)
 
 ### Front in Fortaleza
