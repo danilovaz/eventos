@@ -156,7 +156,7 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 
 ### infoShare
 
-- [2015 - Polônia](htt://theinfoshare.org)
+- [2015 - Polônia](http://theinfoshare.org)
 
 ### Imagine Commerce
 
