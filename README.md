@@ -156,6 +156,10 @@ Contribuições são bem vindas, mas antes de contribuir por favor, acesse o [gu
 
 - [2015 - Brasil](http://frontinsm.com.br/)
 
+### Front in Vale
+
+- [2015 - Brasil](http://2015.frontinvale.com.br/)
+
 ### Front Trends
 
 - [2015 - Polônia](http://2015.front-trends.com/)
